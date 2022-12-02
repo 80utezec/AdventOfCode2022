@@ -1,9 +1,10 @@
+import os
 from Elf import Elf
 
 if __name__ == '__main__':
   elves = []
 
-  with open("C:/Users/80utezec/dev/python/AdventOfCode2022/inputs/inputDay01.txt") as _file:
+  with open(os.path.dirname(__file__) + "/inputs/inputDay01.txt") as _file:
 
     calories = []
     elfCount = 1
