@@ -6,3 +6,7 @@
 
 	-Task 02
 		Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?
+
+-Day 02
+	-Task 01
+		What would your total score be if everything goes exactly according to your strategy guide?
