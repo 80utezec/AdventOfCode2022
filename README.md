@@ -14,3 +14,7 @@
   - Task 01: What is the sum of the priorities of those item types?
 
   - Task 02: What is the sum of the priorities of those item types?
+- Day 03
+  - Task 01: In how many assignment pairs does one range fully contain the other?
+
+  - Task 02: In how many assignment pairs do the ranges overlap?
